@@ -1,2 +1,3 @@
-# medium-notebooks
-The repository contains Jupyter notebooks for my medium blogs.
+# notebooks
+The repository contains Jupyter notebooks for my blogs, learning, etc.
+
